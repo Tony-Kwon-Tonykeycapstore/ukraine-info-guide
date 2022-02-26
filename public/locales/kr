@@ -1,0 +1,22 @@
+{
+  "Map": "지도",
+  "Leave Ukraine": "우크라이나에서 벗어나세요",
+  "Border info": "국경 정보",
+  "About": "저희에 대해",
+  "Services": "서비스(제공)",
+  "Poland": "폴란드",
+  "to Poland": "폴란드행",
+  "Moldova": "몰도바",
+  "to Moldova": "몰도바행",
+  "Hungary": "헝가리",
+  "to Hungary": "헝가리행",
+  "Slovakia": "슬로바키아",
+  "to Slovakia": "슬로바키아행",
+  "About us": "저희에 대해",
+  "Join us <1>on Github</1>": "Github에서 우리와 합류하세요",
+  "How to cross the border": "국경을 넘는 방법",
+  "Choose a country": "국가를 선택해주세요",
+  "Information for Ukrainian citizens travelling {{to_country}}": "",
+  "Information about border crossings": "국경을 넘는 것에 대한 정보",
+  "Services we provide": "제공하는 서비스들"
+}
